@@ -1,6 +1,6 @@
 # Feedback-form-agent
 
-# 🧠 AI Feedback Management Agent (n8n + Gemini + Airtable + Slack)
+# 🧠 AI Feedback Management Agent (n8n + Airtable + Slack)
 
 This is an AI-powered Feedback Agent built using n8n, Google Gemini, Airtable, and Slack. It automates the entire process of receiving, categorizing, and responding to customer feedback — with zero manual intervention.
 
